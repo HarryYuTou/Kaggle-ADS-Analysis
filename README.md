@@ -1,4 +1,4 @@
-# Loan Default Prediction Project
+# Kaggle ADS Analysis Project
 
 ## Overview
 This project aims to analyze the chosen Automated Decision System (ADS) which develops a predictive system to assess loan default probabilities. The ADS leverages various data sources to help financial institutions make informed decisions about loan approvals, particularly focusing on underserved populations who may lack extensive credit histories. We analyzed the ADS for various aspects, including the accuracy, fairness across gender groups, stability, robustness and feature importance.
